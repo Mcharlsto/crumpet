@@ -1,13 +1,13 @@
 body{
-    background-color: chartreuse;
+    background-color: yellow;
 }
 h1{
     text-align: center;
-    color: blueviolet;
+    color: blue;
 }
 
 img{
-    width: 50%;
+    width: 40%;
     height: 100%;
 }
 
